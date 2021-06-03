@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Veneris 20. Febr. 1645 Resolved by the Lords and Commons in Parliament assembled that there be forthwith a choice made of elders ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09089</idno><idno type="EEBO-CITATION">61297007</idno>
+  <idno type="VID">180564</idno>
+  <idno type="EEBO-PROQUEST">2240885935</idno>
+  
+            <idno type="STC">Wing E2243B</idno>
+            <idno type="STC">ESTC R221206</idno>
+            <idno type="OCLC">61297007</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180564)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2834:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Veneris 20. Febr. 1645 Resolved by the Lords and Commons in Parliament assembled that there be forthwith a choice made of elders ...</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. All the severall ordinances, directions, and votes of the Lords and Commons assembled in Parliament.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645 or 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Part of: 'All the severall ordinances ... of the Lords and Commons ... for the speedy establishing of the presbyteriall government', 1645-1646.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England. --  Government --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_document">
+            <pb facs="tcp:180564:1"/>
+            <div type="entry">
+               <head>Die Veneris 20. Febr. 1645.</head>
+               <div type="resolution">
+                  <head>Resolved by the Lords and Commons in Parliament assembled.</head>
+                  <p>THat there be forthwith a Choice made of Elders thorowout the King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> and Dominion of <hi>Wales</hi> in the respective Parish Churches and Chappels, according to such Directions as have already passed both Houses, bearing date the 19. of August 1645. and since that time: And all Classes and Parochiall Con<g ref="char:EOLhyphen"/>gregations respectively are hereby autho<g ref="char:EOLhyphen"/>rized and required forthwith effectually to proceed therein accordingly.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved, &amp;c.</head>
+                  <p>THat notice of the Election of Paro<g ref="char:EOLhyphen"/>chiall and Congregationall Elders,
+<pb facs="tcp:180564:2"/> and of the time when it shall be, be given by the Minster in the publike Assembly the next Lords Day but one before: And that on that said Lords Day a Sermon be preached preparatory to that weighty bu<g ref="char:EOLhyphen"/>sinesse.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved, &amp;c.</head>
+                  <p>THat such Election shall be made by the Congregation, or the major part of them then assembled, being such as have taken the Nationall Covenant, and are not Persons under age, nor Servants that have no Families.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved, &amp;c.</head>
+                  <p>THat these three Votes be forthwith communicated to the Lord Mayor, and immediatly put in due execution.</p>
+               </div>
+               <closer>
+                  <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+               </closer>
+            </div>
+            <div type="entry">
+               <pb facs="tcp:180564:2"/>
+               <head>Die Jovis 26. Febr. 1645.</head>
+               <div type="resolution">
+                  <head>Resolved by the Lords and Commons in Parliament assembled.</head>
+                  <p>THat the Tryers of Elections of El<g ref="char:EOLhyphen"/>ders shall have power to heare and determine all Exceptions brought unto them concerning undue Elections, as well as to receive them; And also to call before them all persons Elected to be Elders, (and accepting such Election) against whom any Exceptions shall be brought in; And to send for such Witnesses as shall be nomina<g ref="char:EOLhyphen"/>ted to them, by such persons as shall bring in the said Exceptions; And shall have power to examine upon Oath, both the persons bringing in such Exceptions, and the said Witnesses, concerning any undue proceedings in the manner of the said E<g ref="char:EOLhyphen"/>lection,
+<pb facs="tcp:180564:3"/> and concerning all matters of Igno<g ref="char:EOLhyphen"/>rance and Scandall, objected against the person elected, and expressed in any Ordi<g ref="char:EOLhyphen"/>nance of Parliament, to bee a sufficient cause of Suspention from the Sacrament of the Lords Supper, and of which any Eldership by Ordinance of Parliament, hath cognizance and jurisdiction; And that shall be prooved to have been committed within one whole year before the Excep<g ref="char:EOLhyphen"/>tions exhibited; And that the person against whom the Exceptions are taken, shall have the like liberty to produce Witnesses to be examined in like manner on his behalf.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved, &amp;c.</head>
+                  <p>THat the Triers shall have power to examine whether the Elders that are to be chosen, be so qualified as is expressed in the Ordinance which hath passed both Houses.</p>
+               </div>
+               <closer>
+                  <signed>Joh. Brown Cler. Parliamentorum.</signed>
+               </closer>
+            </div>
+            <pb facs="tcp:180564:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
